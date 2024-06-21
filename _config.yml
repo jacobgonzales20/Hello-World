@@ -25,12 +25,12 @@ links:
     Color: '#2867B2'
     Icon-Class: fab fa-linkedin-in
 
-    # TIKTOK
-  - Name: TikTok
-    URL: https://www.tiktok.com
-    Username: '@b2v.marketing'
-    Color: '#FE2C55'
-    Icon-Class: fab fa-tiktok
+  #  # TIKTOK
+  #- Name: TikTok
+  #  URL: https://www.tiktok.com
+  #  Username: '@b2v.marketing'
+  #  Color: '#FE2C55'
+  #  Icon-Class: fab fa-tiktok
 
   #  # YOUTUBE
   #- Name: YouTube
